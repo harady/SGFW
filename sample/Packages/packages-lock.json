@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.harady.framework-common": {
+      "version": "https://github.com/harady/SGFW.git?path=/unity/Packages/framework-common",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cdf052d030f6048acb98f00736a9d13065d2f475"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.6",
       "depth": 0,
